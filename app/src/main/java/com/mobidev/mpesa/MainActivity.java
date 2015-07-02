@@ -13,7 +13,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Button btnSafcom, btnMpesa;
+    private Button btnSafcom, btnMpesa;//button object
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
